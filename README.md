@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm currently learning more about TypeScript, React, Express, and SQL!
+
+
 <!--
 **Asduveneck/Asduveneck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
